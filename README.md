@@ -1,1 +1,2 @@
-# Naive_Bayes-main
+# Naive_Bayes
+ Bernoulli, Multinomial and Gaussian naive bayes
